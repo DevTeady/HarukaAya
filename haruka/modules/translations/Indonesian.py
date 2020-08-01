@@ -201,13 +201,7 @@ Ini akan membuat dua tombol pada satu baris, bukan satu tombol per baris.
 IndonesianStrings = {
     "send-start": """Hi {}, nama saya {}! Jika Kamu memiliki pertanyaan tentang cara menggunakan saya, baca /help.
 
-Saya adalah bot manajer grup yang dikelola oleh [orang ini](tg://user?Id={654839744}). Saya adalah [Marie](https://github.com/PaulSonOfLars/tgbot) fork.
-Saya dibangun di python3, menggunakan \
-python-telegram-bot library, dan saya sepenuhnya opensource - Kamu dapat menemukan apa yang membuat saya\
-[disini](https://github.com/peaktogoo/HarukaAya))!
-
-Jangan ragu untuk mengirimkan pull request di github\
-atau permintaan fitur jika kamu punya :)
+Saya adalah bot manajer grup yang dikelola oleh [orang ini](tg://user?Id={654839744}). 
 
 Jika Kamu menikmati menggunakan saya dan / atau ingin membantu saya bertahan di alam liar, tekan /donate untuk membantu upgrade VPS saya!
 """,
